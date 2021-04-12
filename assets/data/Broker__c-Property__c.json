@@ -1,0 +1,24 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef1"
+            },
+            "Name": "Peter Horowitz",
+            "Properties__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef1"
+                        },
+                        "Date_Listed__c": "2021-04-02",
+                        "Name": "22 Redcoat Dr",
+                        "Title__c": "Redcoat"
+                    }
+                ]
+            }
+        }
+    ]
+}
